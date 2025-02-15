@@ -5,7 +5,7 @@ This is a **Python-based GUI application** that allows users to **encrypt and de
 
 ## 🖼️ Screenshot
 ![Encryption Tool Screenshot](sc.png)  
-*(Replace `path/to/your/image.png` with the actual image path in your project directory.)*
+*(Replace `sc.png` with the actual image path in your project directory.)*
 
 ## ✨ Features
 ✔️ **Graphical User Interface (GUI)** using Tkinter  
