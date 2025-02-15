@@ -4,8 +4,8 @@
 This is a **Python-based GUI application** that allows users to **encrypt and decrypt messages** using a key-based cipher technique. The application is built using **Tkinter** and utilizes **Base64 encoding** for secure transformation.
 
 ## 🖼️ Screenshot
-![Encryption Tool Screenshot](sc.png)  
-*(Replace `sc.png` with the actual image path in your project directory.)*
+![Encryption Tool Screenshot](assets/sc.png)  
+*(Make sure to place `sc.png` inside the `assets/` folder in your project directory.)*
 
 ## ✨ Features
 ✔️ **Graphical User Interface (GUI)** using Tkinter  
